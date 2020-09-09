@@ -4,7 +4,7 @@
 
 # Site
 title: Kristopher Gay
-subtitle: Home for all things Kris
+subtitle: Kristopher Gay's Internet Website
 description: Kristopher Gay's Internet Website
 keywords:
   - developer
@@ -106,7 +106,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## Theme: https://github.com/klugjo/hexo-theme-phantom
+theme: phantom
+
+#Phantom Theme Config
+menu:
+  Home: /
+  Archives: /archives
+#  About: /about.html
+subtitle_main: Kris's Internet Website
+about_footer: About Footer.
+default_cover_index: "http://placehold.it/450x450"
+default_cover_detail: "http://placehold.it/1300x500"
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

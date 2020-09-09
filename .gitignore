@@ -118,3 +118,5 @@ dist
 # Hexo
 public/
 .deploy*/
+debug.log
+db.json
