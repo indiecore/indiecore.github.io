@@ -2,16 +2,16 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
+  About: /about
 
 # Logo Image Source
-logo_src: /images/logo.svg
+logo_src: /images/KG-Logo-144.png
 
 # Theme Main Subtitle
 subtitle_main: Kris's Internet Website.
 
 # Theme Secondary subtitle
-susbtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+subtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
 
 # Footer About Section
 about_footer: This site's theme is Hexo by <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a>.<br />.
@@ -32,13 +32,13 @@ show_dates:
 google_analytics:
 
 # Social Accounts
+github_url: https://github.com/indiecore
+email_url: mailto:kris@krisgee.com
 twitter_url: https://twitter.com/indiec0re
 facebook_url: 
 instagram_url: 
 dribble_url: 
-github_url: https://github.com/indiecore
 googleplus_url:
 behance_url:
 fivehundredpx_url:
-email_url: mailto:kris@krisgee.com
 rss_url:
