@@ -1,9 +1,9 @@
 
-<div class="gallery-container">
+<div class="gallery-container" data-featherlight-gallery data-featherlight-filter="a">
     <% if (item.photos.length){ %>
         <% item.photos.forEach(function(photo){ %>
             <div class="picture-container">
-                <a href="#" data-featherlight="<%- config.root %><%- photo %>">
+                <a href="<%- config.root %><%- photo %>">
                     <img src="<%- config.root %><%- photo %>" class="img-thumbnail" />
                 </a>
             </div>

@@ -93,6 +93,13 @@
 		font-size: 1.1em;
 	}
 
+	h2.stroke {
+		color: black;
+		-webkit-text-fill-color: white; /* Will override color (regardless of order) */
+		-webkit-text-stroke-width: 1px;
+		-webkit-text-stroke-color: black;
+	}
+
 	h3 {
 		font-size: 1em;
 	}

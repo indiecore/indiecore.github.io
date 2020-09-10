@@ -11,7 +11,7 @@ logo_src: /images/KG-Logo-144.png
 subtitle_main: Kris's Internet Website.
 
 # Theme Secondary subtitle
-subtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+subtitle_secondary: Kristopher is a game developer with a specialization in Unity & Mobile app development.
 
 # Footer About Section
 about_footer: This site's theme is Hexo by <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a>.<br />.
@@ -26,7 +26,7 @@ default_cover_index: "http://placehold.it/450x450"
 default_cover_detail:
 
 # Show Dates for posts and pages
-show_dates:
+show_dates: true
 
 # Google Analytics Tracking ID
 google_analytics:
