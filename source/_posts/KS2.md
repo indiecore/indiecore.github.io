@@ -1,15 +1,14 @@
 ---
-title: KS2
+title: Kitchen Scramble 2
 date: 2020-09-10 15:42:50
 cover_detail: 
 cover_index: /images/KS2/KS2_Splash_Promo.png
 photos: 
-	- images/KS2/Promo_1.png
-	- images/KS2/Promo_2.png
-	- images/KS2/Promo_3.png
-	- images/KS2/Promo_4.png
-	- images/KS2/Promo_5.png
-	- images/KS2/Promo_5.png
+	- images/KS2/Promo_1.jpg
+	- images/KS2/Promo_2.jpg
+	- images/KS2/Promo_3.jpg
+	- images/KS2/Promo_4.jpg
+	- images/KS2/Promo_5.jpg
 tags:
 	- released
 	- games

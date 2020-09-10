@@ -4,12 +4,12 @@ date: 2019-02-15 15:40:20
 cover_detail: 
 cover_index: /images/Goals/Goals_App_Icon.png
 photos: 
-	- images/Goals/Goals_Promo_1.png
-	- images/Goals/Goals_Promo_2.png
-	- images/Goals/Goals_Promo_3.png
-	- images/Goals/Goals_Promo_4.png
-	- images/Goals/Goals_Promo_5.png
-	- images/Goals/Goals_Promo_5.png
+	- images/Goals/Goals_Promo_1.jpg
+	- images/Goals/Goals_Promo_2.jpg
+	- images/Goals/Goals_Promo_3.jpg
+	- images/Goals/Goals_Promo_4.jpg
+	- images/Goals/Goals_Promo_5.jpg
+	- images/Goals/Goals_Promo_5.jpg
 tags:
 	- released
 	- games
