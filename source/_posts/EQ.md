@@ -34,6 +34,5 @@ categories:
 >	• CE Marking
 >	• Fun for the test-taker
 
-EQ Brain Performance was the lead application for the startup company Highmark Interactive.
-
-At Highmark I was the original Lead Developer and lead development on the game from inception until release
+**With**: [Highmark Interactive](https://www.highmark.tech/)
+**Role**: Lead Developer

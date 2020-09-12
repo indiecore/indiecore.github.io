@@ -21,6 +21,11 @@ categories:
 	- XMG
 ---
 
+<a style="border-bottom:0px;" href="https://apps.apple.com/us/app/fashion-star-life/id1092285445"> <img src="/images/app-store-badge.svg" alt="Link to game on App Store" style="width: 185px;padding: 10px;"/></a>
+
 >Do you have what it takes to be a Fashion Star?
 >
 >Can you meet client expectations and truly "cut it" in your very own fashion studio?
+
+**With**: [XMG Studio](xmgstudio.com/)
+**Role**: Studio Lead Developer

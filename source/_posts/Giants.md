@@ -24,3 +24,6 @@ categories:
 > In a world where all emotions have been forgotten, we must brave an ever-evolving environment to reclaim what it truly means to be alive.
 > 
 > Witness a desolate, barren world blossom into a verdant utopia of colour and life. The unique art style marries geometric forms, painterly textures, and a dash of Futurism for a truly breathtaking visual experience.
+
+**With**: [XMG Studio](xmgstudio.com/)
+**Role**: Studio Lead Developer

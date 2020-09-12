@@ -23,3 +23,6 @@ categories:
 ---
 
 > GastroBots is a cute lil' arcade/puzzle game where you, an adorable space-robo-cowboy, save the food galaxy from being eaten by greedy space-robo-critters the only way you know how... wranglin’!
+
+**With**: [XMG Studio](xmgstudio.com/)
+**Role**: Senior Developer/Studio Lead Developer
