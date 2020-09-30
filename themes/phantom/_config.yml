@@ -29,7 +29,7 @@ default_cover_detail:
 show_dates: true
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-36939211-1
 
 # Social Accounts
 github_url: https://github.com/indiecore
