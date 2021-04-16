@@ -1,8 +1,9 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Contact: /contact
   About: /about
+  Archives: /archives
 
 # Logo Image Source
 logo_src: /images/KG-Logo-144.png

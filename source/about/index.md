@@ -3,6 +3,7 @@ title: About Me
 date: 2020-09-09 15:43:28
 subtitle: Kris is a video game developer
 cover_detail: /images/KrisBday-2020-cropped.png
+skipdate: true
 ---
 
 ## Who I am
